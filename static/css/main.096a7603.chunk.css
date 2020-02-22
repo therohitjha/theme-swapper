@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box}body,html{height:100%}body,button,html{display:flex;justify-content:center;align-items:center}button{cursor:pointer;padding:1rem;border:none;outline:none;-webkit-transition:all .5s ease-in-out;transition:all .5s ease-in-out;border-radius:5px}.sun{color:orange}.moon,.sun{width:24px;height:"24px";position:absolute;top:50px;left:49%}.moon{color:#fff}
+/*# sourceMappingURL=main.096a7603.chunk.css.map */
