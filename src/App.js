@@ -1,10 +1,10 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./App.css";
 
 function App() {
-  const [state, setState] = React.useState(false);
+  const [state, setState] = useState(false);
 
-  React.useEffect(() => {
+  useEffect(() => {
     if (state) {
       document.body.style.backgroundColor = "black";
     } else {
